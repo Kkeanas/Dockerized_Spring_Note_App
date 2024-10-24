@@ -1,6 +1,8 @@
 # SPRING NOTE PROJECT
 Hello, it's my first project that i dropped on github.
-It's show my skills of using spring
+
+It's show my skills of using Spring.
+
 To start you need to use docker
 1. By Using Maven package project without tests
 ```
